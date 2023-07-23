@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @MaryamRACHID
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently a student at ENSA Al-Hoceima/Morocoo
-- 💞️ I’m looking for my end-of-studies internship
-- 📫 How to reach me : maryaam.rachid@gmail.com
+- 👋 Hi, I'm @MaryamRACHID.
+
+- 👩‍💻 Software engineering graduate with a strong passion for software development and cutting-edge technologies.
+
+- 🌱 Recently graduated as an engineer from ENSA Al-Hoceima/Morocco, actively seeking employment opportunities in the software engineering field.
+
+- 💼 Open to roles in software development, systems engineering, or any challenging position where I can apply my skills and continue to learn and grow.
+
+- 📫 You can reach me via email: maryaam.rachid@gmail.com
+
+*Excited to join a dynamic team and contribute to innovative projects. Feel free to reach out*!
 
 
 <!---
